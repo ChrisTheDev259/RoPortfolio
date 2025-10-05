@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+venv/
+.env/
+.env.*
+
+# Django
+local_settings.py
+db.sqlite3
+/media
+/staticfiles
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+/taiwind/dist
+/taiwind/node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.venv
+
+# Pytest
+.pytest_cache/
